@@ -1,11 +1,11 @@
-import { Box, TextField } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 
 function App() {
   return (
     <Box>
-      <TextField>
-        Let's see
-      </TextField>
+      <Typography variant="h1">
+        Test!
+      </Typography>
     </Box>
   );
 }
