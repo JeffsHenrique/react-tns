@@ -1,8 +1,12 @@
+import { Box, TextField } from "@mui/material";
+
 function App() {
   return (
-    <div>
-      <p>YES! LET'S CODE, MOTHAFOCKA!</p>
-    </div>
+    <Box>
+      <TextField>
+        Let's see
+      </TextField>
+    </Box>
   );
 }
 
